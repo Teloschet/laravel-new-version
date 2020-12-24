@@ -1,6 +1,4 @@
 * text=auto
-*.css linguist-detectable=true
-*.scss linguist-detectable=false
+*.php linguist-language=Php
+*.sql linguist-detectable=true
 *.js linguist-detectable=true
-*.php linguist-detectable=true
-CHANGELOG.md export-ignore
