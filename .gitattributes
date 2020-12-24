@@ -1,4 +1,4 @@
-* text=auto
 *.php linguist-language=Php
 *.sql linguist-detectable=true
 *.js linguist-detectable=true
+
