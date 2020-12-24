@@ -1,4 +1,2 @@
-*.php linguist-language=Php
-*.sql linguist-detectable=true
-*.js linguist-detectable=true
-
+* linguist-vendored
+*.php linguist-detectable=true
